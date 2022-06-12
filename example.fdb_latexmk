@@ -1,12 +1,12 @@
 # Fdb version 3
-["xdvipdfmx"] 1654414902 "d:/class/cup/MathorCupmodeling/example.xdv" "d:/class/cup/MathorCupmodeling/example.pdf" "d:/class/cup/MathorCupmodeling/example" 1654414905
-  "d:/class/cup/MathorCupmodeling/example.xdv" 1654414902 357308 074fb2dc5bb6d16875dfebb6414f66f4 "xelatex"
+["xdvipdfmx"] 1655043040 "d:/class/cup/MathorCupmodeling/example.xdv" "d:/class/cup/MathorCupmodeling/example.pdf" "d:/class/cup/MathorCupmodeling/example" 1655043044
+  "d:/class/cup/MathorCupmodeling/example.xdv" 1655043039 357308 82dc6a57febf8eb4023bd4e1188e36ec "xelatex"
   (generated)
   "d:/class/cup/MathorCupmodeling/example.pdf"
-["xelatex"] 1654414896 "d:/class/cup/MathorCupmodeling/example.tex" "d:/class/cup/MathorCupmodeling/example.xdv" "example" 1654414905
+["xelatex"] 1655043033 "d:/class/cup/MathorCupmodeling/example.tex" "d:/class/cup/MathorCupmodeling/example.xdv" "example" 1655043044
   "MathorCupmodeling.cls" 1650134403 6059 c92d2805a1d994bb8848df5cd4a5d775 ""
-  "d:/class/cup/MathorCupmodeling/example.aux" 1654414902 18830 9f26a554984b1bba8943ddfe6f700944 ""
-  "d:/class/cup/MathorCupmodeling/example.tex" 1654414860 60524 06ebf778d3af7c59220733a4e7bbdac7 ""
+  "d:/class/cup/MathorCupmodeling/example.aux" 1655043039 18830 9f26a554984b1bba8943ddfe6f700944 ""
+  "d:/class/cup/MathorCupmodeling/example.tex" 1655042989 60524 4f2fc318c19dc2563b52c7a048286ff1 ""
   "d:/software/texlive/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1627483915 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "d:/software/texlive/texlive/2021/texmf-dist/fonts/tfm/adobe/courier/pcrr8t.tfm" 1627483175 1384 4632f5e54900a7dadbb83f555bc61e56 ""
   "d:/software/texlive/texlive/2021/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1627487206 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
@@ -206,10 +206,10 @@
   "d:/software/texlive/texlive/2021/texmf-dist/web2c/texmf.cnf" 1627484758 39972 3d6bb4d9d719e93193fa020b58adf5d4 ""
   "d:/software/texlive/texlive/2021/texmf-var/web2c/xetex/xelatex.fmt" 1627487424 5093893 77e6c9c238e4a59f5f5a9addf3b9b17d ""
   "d:/software/texlive/texlive/2021/texmf.cnf" 1627487224 713 e69b156964470283e0530f5060668171 ""
-  "example.aux" 1654414902 18830 9f26a554984b1bba8943ddfe6f700944 "xelatex"
-  "example.out" 1654414902 3505 5676ce512e54d6c66641419a496ff17e "xelatex"
-  "example.tex" 1654414860 60524 06ebf778d3af7c59220733a4e7bbdac7 ""
-  "example.toc" 1654414902 3598 7c4274e6bc0adc2fd928eb2178827779 "xelatex"
+  "example.aux" 1655043039 18830 9f26a554984b1bba8943ddfe6f700944 "xelatex"
+  "example.out" 1655043039 3505 5676ce512e54d6c66641419a496ff17e "xelatex"
+  "example.tex" 1655042989 60524 4f2fc318c19dc2563b52c7a048286ff1 ""
+  "example.toc" 1655043039 3598 7c4274e6bc0adc2fd928eb2178827779 "xelatex"
   "figures//1.jpg" 1650212885 55497 13d40ce65e032f6775d665453397b95c ""
   "figures//10.jpg" 1650220100 81154 d308eaefae396e94ad5f4cd43d76b7e8 ""
   "figures//11.jpg" 1650211992 105606 d154c8f8d07a62e20d93f697f0858f21 ""
@@ -237,13 +237,13 @@
   "figures//5.jpg" 1650214033 53572 8c301fe036990eed1664ae2f27b9102f ""
   "figures//6.jpg" 1650214009 49472 b9bc7b07b7f6121ebdd62a40b285b6f9 ""
   "figures//7.jpg" 1650214074 72554 760144956028eb53de6143178d697f9d ""
-  "figures//8.jpg" 1650211935 37880 cfeab6f9202487f8997fc4092d440c66 ""
-  "figures//9.jpg" 1650211961 39934 923b862e980cd788b4af29b7203a44f5 ""
+  "figures//8.jpg" 1655041996 36954 74c6c557e7e0cc468a7a36b25d1bbe78 ""
+  "figures//9.jpg" 1655042015 38123 6679f67574fce6dfef42663c00dd2249 ""
   (generated)
-  "example.xdv"
-  "example.out"
-  "d:/class/cup/MathorCupmodeling/example.xdv"
-  "example.log"
   "d:/class/cup/MathorCupmodeling/example.log"
   "example.aux"
+  "d:/class/cup/MathorCupmodeling/example.xdv"
+  "example.log"
+  "example.out"
+  "example.xdv"
   "example.toc"

@@ -1,4 +1,7 @@
-# MathorCupmodeling
- MathorCup杯数学建模论文模板
+# 2022MathorCup C题
+2022Mathorcup一等奖论文
 
-使用者需要有一定的 LaTeX 的使用经验
+### 使用说明
+
+UTF-8 编码，`zhlipsum` 宏包处理中文，请使用 `xelatex` 引擎编译。
+
